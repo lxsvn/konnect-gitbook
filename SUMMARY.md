@@ -1,10 +1,10 @@
 # Table of contents
 
-* [👋 Welcome to Konnect !](README.md)
+* [👋 Welcome to Konnect  !](README.md)
 
 ## Overview
 
-* [💡 About Konnect](overview/about-konnect.md)
+* [💡 Introduction](overview/about-konnect.md)
 * [💞 Social Graph](overview/social-graph.md)
 * [✨ Decentralized Identity](overview/decentralized-identity.md)
 * [🤖 KR System](overview/kr-system.md)
