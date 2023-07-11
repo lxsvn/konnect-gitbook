@@ -1,13 +1,9 @@
-# 👋 Welcome to Konnect !
+# 👋 Welcome to Konnect  !
 
 ## Quick links
 
 {% content-ref url="overview/about-konnect.md" %}
 [about-konnect.md](overview/about-konnect.md)
-{% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
 {% endcontent-ref %}
 
 ## Get Started
