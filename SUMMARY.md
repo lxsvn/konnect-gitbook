@@ -4,9 +4,9 @@
 
 ## Overview
 
-* [🤚 Background](overview/background.md)
-* [💞 What is Konnect?](overview/what-is-konnect.md)
-* [✨ What is Konnect Wallet?](overview/decentralized-identity/README.md)
+* [🤚 Background](overview/about-konnect.md)
+* [💞 What is Konnect?](overview/social-graph.md)
+* [✨ What is Konnect Wallet?](overview/decentralized-identity.md)
   * [Email Recovery](overview/decentralized-identity/email-recovery.md)
   * [Multi-chain Support](overview/decentralized-identity/multi-chain-support.md)
   * [Gasless Support](overview/decentralized-identity/gasless-support.md)
