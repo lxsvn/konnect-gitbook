@@ -2,8 +2,8 @@
 
 ## Quick links
 
-{% content-ref url="overview/about-konnect.md" %}
-[about-konnect.md](overview/about-konnect.md)
+{% content-ref url="overview/background.md" %}
+[background.md](overview/background.md)
 {% endcontent-ref %}
 
 ## Get Started

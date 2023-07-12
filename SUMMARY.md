@@ -4,10 +4,15 @@
 
 ## Overview
 
-* [💡 Introduction](overview/about-konnect.md)
-* [💞 Social Graph](overview/social-graph.md)
-* [✨ Decentralized Identity](overview/decentralized-identity.md)
-* [🤖 KR System](overview/kr-system.md)
+* [🤚 Background](overview/background.md)
+* [💞 What is Konnect?](overview/what-is-konnect.md)
+* [✨ What is Konnect Wallet?](overview/decentralized-identity/README.md)
+  * [Email Recovery](overview/decentralized-identity/email-recovery.md)
+  * [Multi-chain Support](overview/decentralized-identity/multi-chain-support.md)
+  * [Gasless Support](overview/decentralized-identity/gasless-support.md)
+  * [Compatible With ERC-4337](overview/decentralized-identity/compatible-with-erc-4337.md)
+  * [Konnect Wallet vs. Other Wallets](overview/decentralized-identity/konnect-wallet-vs.-other-wallets.md)
+* [💡 F\&Q](overview/f-and-q.md)
 
 ## GET STARTED
 
